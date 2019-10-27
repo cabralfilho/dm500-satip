@@ -13,6 +13,8 @@ you end with a `buildroot-XXXX.XX.X` directory next to the `config_*`
 files. I used version 2017.05-rc3 but other versions may work as well:
 
     curl https://buildroot.org/downloads/buildroot-2017.05-rc3.tar.gz | tar xz
+   ## curl  https://buildroot.org/downloads/buildroot-2019.02.6.tar.gz | tar xz ##
+   testando mudancas possiveis experiencia
 
 For convenience, rename `buildroot-XXXX.XX.X` to just `buildroot`:
 
